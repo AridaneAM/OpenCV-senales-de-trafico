@@ -5,7 +5,7 @@ Diseño de un clasificador con un modelo de redes neuronales convolucionales. La
 ![alt text](https://i.gyazo.com/c8d403c63051e742285049420844f486.png)
 
 
-En la creación del modelo, se ha utilizado la librería de Python “Keras”, que facilita en gran medida en el diseño de estructuras de modelos de Machine Learning sin entrar en las matemáticas en las cuales se basa.
+En la creación del modelo, se ha utilizado la librería de Python “Keras”, que facilita en gran medida el diseño de estructuras de modelos de Machine Learning sin entrar en las matemáticas en las cuales se basa.
 Como base de datos para la obtención del modelo, se usado una recopilación de señales alemanas que se encuentran ya clasificadas con sus etiquetas correspondientes.
 
 https://bitbucket.org/jadslim/german-traffic-signs
@@ -26,7 +26,7 @@ https://bitbucket.org/jadslim/german-traffic-signs
 ![alt text](https://i.gyazo.com/d4b4aaec8ea4d41cef1e83de54ae9e19.png)
 
 &nbsp;
-*Entrenamiento de base de datos.*
+*Entrenamiento de la base de datos.*
 ![alt text](https://i.gyazo.com/a24b3f02aef681ca2da1d7f6e130ee00.png)
 
 
